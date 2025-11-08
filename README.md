@@ -13,10 +13,10 @@
 - 😄 Pronouns: He/Him
 
 # Neto Sarmento (PT-BR)
-Eu sou um estudante de Desenvolvimento de Sistemas do IFsuldeMinas. Estou estudando para ser Desenvolvedor Full Stack. Estou sempre disposto a aprender e a trabalhar em equipe, sou pró-ativo e estou sempre procurando projetos para colaborar. Sou programador em Python, C e JavaScript, com ênfase em desenvolvimento web e análise de dados.
+Eu sou um estudante de Esp.Desenvolvimento de Sistemas do Instituto Federal do Tocantins (IFTO). Estou estudando para ser Desenvolvedor Full Stack. Estou sempre disposto a aprender e a trabalhar em equipe, sou pró-ativo e estou sempre procurando projetos para colaborar. Sou programador em Python, C e JavaScript, com ênfase em desenvolvimento web e análise de dados.
 
 # Neto Sarmento (EN)
-I am a Systems Development student at IFsuldeMinas. I am studying to become a Full Stack Developer. I am always willing to learn and work in a team, I am proactive and I am always looking for projects to collaborate on. I am a programmer in Python, C, and JavaScript, with an emphasis on web development and data analysis.
+I am a Esp.Systems Development student at Instituto Federal do Tocantins (IFTO). I am studying to become a Full Stack Developer. I am always willing to learn and work in a team, I am proactive and I am always looking for projects to collaborate on. I am a programmer in Python, C, and JavaScript, with an emphasis on web development and data analysis.
 
 
 
